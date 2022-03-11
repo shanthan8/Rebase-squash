@@ -4,3 +4,7 @@ print("Radhe")
 print("shayam")
 print("Podi")
 print("dubbuku")
+3
+4
+5
+6
