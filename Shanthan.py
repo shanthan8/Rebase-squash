@@ -1,6 +1,6 @@
 print('Hello')
 print("World")
-Print("Radhe")
+print("Radhe")
 print("shayam")
 print("Podi")
 print("dubbuku")
